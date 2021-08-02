@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b835b06e5e43f28b44aabaa70dcc40db',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '0424b4a2bdf33548630e83d9a2acfe4f',
+  'native_key' => 'cache_resource_clear_partial',
+  'object' => '{"key":"cache_resource_clear_partial","value":0,"xtype":"combo-boolean","namespace":"core","area":"caching","editedon":null}',
+);

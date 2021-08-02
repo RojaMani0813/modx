@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '86bf96bff0456d15c5cecfc58edff54f',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'e7984567c49b0111159b8e340a1e5b9d',
+  'native_key' => 'OnPackageUninstall',
+  'object' => '{"name":"OnPackageUninstall","service":2,"groupname":"Package Manager"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '825c0ff4b70811b4394b583ac0f15874',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f37a2639cd37637f29e2d8995401c70d',
+  'native_key' => 'automatic_alias',
+  'object' => '{"key":"automatic_alias","value":"1","xtype":"combo-boolean","namespace":"core","area":"furls","editedon":null}',
+);

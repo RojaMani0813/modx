@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ee84adbbe5cb3a8eb95c0d363f9f8f7b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd1378f37f06e75e890f6f6412b9a5aae',
+  'native_key' => 'automatic_template_assignment',
+  'object' => '{"key":"automatic_template_assignment","value":"parent","xtype":"textfield","namespace":"core","area":"site","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'fe5658000711c21c11d5150ff8757960',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'cfad44686163513a3e1c2bca5b8b0d82',
+  'native_key' => 'session_name',
+  'object' => '{"key":"session_name","value":"","xtype":"textfield","namespace":"core","area":"session","editedon":null}',
+);

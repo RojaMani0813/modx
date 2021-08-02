@@ -1,0 +1,30 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'unique_key' => 'text',
+  'related_objects' => true,
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'formit',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '84cbe6413c08fa9ee40b1be8094a409c',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '6dd64593d3c8a504dfa6290865e0ad34',
+  'native_key' => 'formit',
+  'object' => '{"text":"formit","parent":"components","action":"home","description":"formit.desc","icon":"","menuindex":0,"params":"","handler":"","permissions":"formit","namespace":"formit"}',
+);

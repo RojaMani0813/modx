@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7f17bdcd1ba35f65718e494f22ec3754',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '2664d672b1a4f778befc04741b7392f7',
+  'native_key' => 'static_elements_automate_tvs',
+  'object' => '{"key":"static_elements_automate_tvs","value":"0","xtype":"combo-boolean","namespace":"core","area":"static_elements","editedon":null}',
+);

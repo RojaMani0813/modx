@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '377a80a52d2d34a3bf6d20b0789e6a6d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '624c9392476f93053cf730b2d9ef9c50',
+  'native_key' => 'phpthumb_far',
+  'object' => '{"key":"phpthumb_far","value":"C","xtype":"textfield","namespace":"core","area":"phpthumb","editedon":null}',
+);
